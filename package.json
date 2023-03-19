@@ -49,5 +49,17 @@
   "lint-staged": {
     "*.js": "eslint --cache --fix",
     "*.{js,css,md}": "prettier --write"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMV-777/js-new.git"
+  },
+  "author": "Maks Borenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BMV-777/js-new/issues"
+  },
+  "homepage": "https://github.com/BMV-777/js-new#readme"
 }
